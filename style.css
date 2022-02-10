@@ -61,4 +61,22 @@ h1 {
     margin-left: 12px;
 }
 
-.
+.btn-1 {
+    height: 60px;
+    width: 204px;
+    background-color: red;
+    border-radius: 12px;
+}
+
+a {
+    color: black;
+    font-size: 16px;
+}
+
+.btn-2 {
+    height: 60px;
+    width: 204px;
+    background-color: yellow;
+    border-radius: 12px;
+    margin-left: 22px;
+}
