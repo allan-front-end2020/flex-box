@@ -1,38 +1,102 @@
-    h1 {
-        text-align: center;
-        margin-top: 100px;
-        margin-bottom: 100px;
-    }
-    
-    .caixa-pequena {
-        width: 200px;
-        height: 200px;
-        border: solid 2px red;
-        box-shadow: -8px 8px red;
-    }
-    
-    .caixa-grande {
-        width: 429px;
-        height: 200px;
-        border: solid 2px red;
-        box-shadow: -8px 8px red;
-    }
-    
-    .container-01 {
-        display: flex;
-        justify-content: space-between;
-        margin-bottom: 50px;
-        align-items: center;
-    }
-    
-    .container-02 {
-        display: flex;
-        justify-content: space-between;
-        margin-bottom: 50px;
-    }
-    
-    .container-03 {
-        display: flex;
-        justify-content: space-between;
-        margin-bottom: 50px;
-    }
+h1 {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.caixa-pequena {
+    width: 200px;
+    height: 200px;
+    border: solid 2px red;
+    box-shadow: -8px 8px red;
+}
+
+.caixa-grande {
+    width: 422px;
+    height: 200px;
+    border: solid 2px red;
+    box-shadow: -8px 8px red;
+}
+
+.container-01 {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+    align-items: center;
+    margin: 12px
+}
+
+.container-02 {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+    align-items: center;
+    margin: 12px
+}
+
+.container-03 {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+    align-items: center;
+    margin: 12px
+}
+
+
+/* style 2 pagina*/
+
+.container-x {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+    align-items: center;
+    margin: 12px
+}
+
+.-a {
+    background-color: yellow;
+    height: 100px;
+    width: 100%;
+    margin-bottom: 20px;
+    margin-left: 12px;
+}
+
+.a {
+    background-color: yellow;
+    height: 100px;
+    width: 50%;
+    margin-bottom: 20px;
+    margin-left: 12px;
+}
+
+.b {
+    background-color: yellow;
+    height: 100px;
+    width: 33%;
+    margin-bottom: 20px;
+    margin-left: 12px;
+}
+
+.c {
+    background-color: yellow;
+    height: 100px;
+    width: 25%;
+    margin-bottom: 20px;
+    margin-left: 12px;
+}
+
+.d {
+    background-color: yellow;
+    height: 100px;
+    width: 25%;
+    margin-bottom: 20px;
+    margin-left: 12px;
+}
+
+.e {
+    background-color: yellow;
+    height: 100px;
+    width: 25%;
+    margin-bottom: 20px;
+    margin-left: 12px;
+}
