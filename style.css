@@ -1,0 +1,38 @@
+    h1 {
+        text-align: center;
+        margin-top: 100px;
+        margin-bottom: 100px;
+    }
+    
+    .caixa-pequena {
+        width: 200px;
+        height: 200px;
+        border: solid 2px red;
+        box-shadow: -8px 8px red;
+    }
+    
+    .caixa-grande {
+        width: 429px;
+        height: 200px;
+        border: solid 2px red;
+        box-shadow: -8px 8px red;
+    }
+    
+    .container-01 {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 50px;
+        align-items: center;
+    }
+    
+    .container-02 {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 50px;
+    }
+    
+    .container-03 {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 50px;
+    }
