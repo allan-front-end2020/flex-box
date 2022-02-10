@@ -53,7 +53,7 @@ h1 {
     margin: 12px
 }
 
-.-a {
+.a {
     background-color: yellow;
     height: 100px;
     width: 100%;
@@ -61,42 +61,4 @@ h1 {
     margin-left: 12px;
 }
 
-.a {
-    background-color: yellow;
-    height: 100px;
-    width: 50%;
-    margin-bottom: 20px;
-    margin-left: 12px;
-}
-
-.b {
-    background-color: yellow;
-    height: 100px;
-    width: 33%;
-    margin-bottom: 20px;
-    margin-left: 12px;
-}
-
-.c {
-    background-color: yellow;
-    height: 100px;
-    width: 25%;
-    margin-bottom: 20px;
-    margin-left: 12px;
-}
-
-.d {
-    background-color: yellow;
-    height: 100px;
-    width: 25%;
-    margin-bottom: 20px;
-    margin-left: 12px;
-}
-
-.e {
-    background-color: yellow;
-    height: 100px;
-    width: 25%;
-    margin-bottom: 20px;
-    margin-left: 12px;
-}
+.
